@@ -3,8 +3,11 @@ Hi! My name is Christopher. I am a roboticist and cybernetician focused on creat
 Focus:
 
 :rocket: Space Mission Planning & Architectures
+
 :robot: Cognitive Robotics & Artificial Agents
+
 :earth_americas: International Vagabond
+
 :joystick: High-Ranked PlayStation Gamer
 
 
