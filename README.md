@@ -8,7 +8,7 @@ Gist:
 
 :robot: Cognitive Robotics & Artificial Agents
 
-:joystick: Human-Robot Interaction & Human Factors
+:joystick: Human-Robot Interaction & Human Factors (Game Design)
 
 
 <a href="https://github.com/ohara124c41">
