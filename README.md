@@ -17,3 +17,5 @@ Focus:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohara124c41&theme=tokyonight&hide_langs_below=10&langs_count=7&hide=rich%20text%20format,roff" />
 </a>
 
+<a href="https://psnprofiles.com/ohara124c41"><img src="https://card.psnprofiles.com/2/ohara124c41.png" border="0"></a>
+
