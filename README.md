@@ -20,5 +20,4 @@ Focus:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohara124c41&theme=tokyonight&hide_langs_below=10&langs_count=7&hide=rich%20text%20format,roff" />
 </a>
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="ohara124c41"><a class="LI-simple-link" href='https://nl.linkedin.com/in/ohara124c41?trk=profile-badge'>Christopher Ohara</a></div>
+<img src="https://github-readme-linkedin.vercel.app//experience?username=ohara124c41" />
