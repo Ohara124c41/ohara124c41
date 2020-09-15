@@ -1,8 +1,11 @@
 Hi! My name is Christopher. I am a roboticist and cybernetician focused on creating cognitive space robotics. I am currently a Professional Doctorate of Engineering in Software Technology candidate at the TU/e. Furthermore, I am working with several space groups including the European Space Agency, the Austrian Space Forum, EPFL, and the Space Generation Advisory Council to bring high-tech solutions to complex problems. Recently, I have been focusing on the systems engineering and systems architecting domain for artificial intelligence, machine learning, and control systems for space robotics. Thank you for your interest!
 
-About:
+Focus:
 
-:rocket: Space Engineer
+:rocket: Space Mission Planning & Architectures
+:robot: Cognitive Robotics & Artificial Agents
+:earth_americas: International Vagabond
+:joystick: High-Ranked PlayStation Gamer
 
 
 
