@@ -21,6 +21,7 @@ Gist:
 
 <a href="https://psnprofiles.com/ohara124c41"><img align="left" src="https://card.psnprofiles.com/2/ohara124c41.png" border="0"></a>
 
+https://github-profile-trophy.vercel.app/?username=ohara124c41&rank=SSS,SS,S,AAA&theme=nord
 
 
 
