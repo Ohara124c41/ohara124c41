@@ -21,9 +21,19 @@ Gist:
 
 <a href="https://psnprofiles.com/ohara124c41"><img align="left" src="https://card.psnprofiles.com/2/ohara124c41.png" border="0"></a>
 
+---
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ohara124c41&rank=SSS,SS,S,AAA&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
+---
 
+### Spotify Playing 🎧
 
+<div align="center">
+
+[![Spotify](https://novatorem.1282252368.vercel.app/api/spotify)](https://open.spotify.com/user/1282252368)
+
+</div>
+
+---
 
