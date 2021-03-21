@@ -1,6 +1,6 @@
 Hi! My name is Christopher. I am a roboticist and cybernetician focused on creating cognitive space robotics. I am currently a Professional Doctorate of Engineering in Software Technology candidate at the TU/e. Furthermore, I am working with several space groups including the European Space Agency, the Austrian Space Forum, EPFL, and the Space Generation Advisory Council to bring high-tech solutions to complex problems. Recently, I have been focusing on the systems engineering and systems architecting domain for artificial intelligence, machine learning, and control systems for space robotics. Thank you for your interest!
 
-I have developed MBSE architecture frameworks for ESA, Volvo, and currently Siemens. For CERN, I have developed extensive APIs. Most of my projects focus on future-oriented technologies. For example, the CERN SHiP experiment in 2026, ESA's Deep Space (Copernicus and beyond) in 2030~2040, and Space Suits for 2024+. 
+I have developed MBSE architecture frameworks for ESA, Volvo, and currently Siemens. For CERN, I have developed extensive APIs. Most of my projects focus on future-oriented technologies. For example, the CERN SHiP experiment in 2026, ESA's Deep Space (Copernicus and beyond) in 2030~2040, and Space Suits for 2024+. I am currently combining Generative Engineering and Concurrent Engineering for space system applications development for Phase 0/A missions at Siemens DI SW.
 
 Gist:
 
