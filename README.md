@@ -25,9 +25,6 @@ Gist:
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ohara124c41&rank=SSS,SS,S,AAA&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ### Now Playing on Spotify 🎧
 
