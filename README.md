@@ -31,7 +31,7 @@ Gist:
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=1282252368&cover_image=true&theme=novatorem)](https://open.spotify.com/user/1282252368)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1282252368&cover_image=true&theme=novatorem)](https://open.spotify.com/user/1282252368)
 </div>
 
 ---
