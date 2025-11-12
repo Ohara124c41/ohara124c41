@@ -23,7 +23,7 @@ Gist:
 </a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ohara124c41&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ohara124c41&theme=tokyonight&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 
 
 
